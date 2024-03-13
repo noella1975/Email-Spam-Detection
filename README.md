@@ -1,1 +1,1 @@
-# EmailSpamDetection
+This project focuses on detecting spam emails by training a logistic regression model to accurately identify and filter out spam emails from legitimate ones. By analyzing the text content of emails and their corresponding labels (spam or ham), the model learns to classify emails as spam or non-spam based on their textual features.
